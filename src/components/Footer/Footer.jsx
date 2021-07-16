@@ -39,7 +39,6 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()}
- 
         </p>
 
         {isEnabled && <GithubButtons />}

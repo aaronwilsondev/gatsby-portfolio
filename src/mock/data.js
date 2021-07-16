@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Aaron Wilson / Developer', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
-  description: 'welcome to my portfolio', // e.g: Welcome to my website
+  description: 'FullStack Web Developer specializing in M.E.R.N stack ecommerce applications', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile1.jpg',
   paragraphOne:  'Hello my name is Aaron Wilson, I am a Fullstack Developer specializing in the M.E.R.N stack Development.',
-  paragraphTwo: 'I use React, Express, Mongodb, Node and many other technologies in order to bring my clients fast, reliable fully fledged web applications.',
-  paragraphThree: 'I enojoy spending my time bettering myself and my skills within the realm of web delevopment.  below are some of the projects I have worked on. Please have a browse and If i can help in anyway feel free to contact me',
+  paragraphTwo: 'I use React, Express, MongoDB, Node and many other technologies in order to bring my clients fast, reliable, fully fledged web applications.',
+  paragraphThree: 'I enojoy spending my time bettering myself and my skills within the realm of web development.  below are some of the projects I have worked on. Please have a browse and If I can help in anyway feel free to contact me',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'bd-tattoo-portfolio.jpg',
     title: 'Portfolio site with React',
     info: 'A portfolio site for a Tattoo parlour based in Dublins Temple bar with contact us functionality',
-    info2: ' Using React light box wrapper for gallery for blow up and optional image download',
+    info2: ' Using React light box wrapper for gallery image blow up and optional image download',
     url: 'https://bdtattoo.herokuapp.com/',
     repo: 'https://github.com/aaronwilsondev/bulldog-tattoo', // if no repo, the button will not show up
   },
