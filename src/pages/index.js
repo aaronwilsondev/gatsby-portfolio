@@ -17,6 +17,7 @@ export default () => {
         <meta name="description" content={description || 'Gatsby Simplefolio'} />
       </Helmet>
       <App />
+      
     </>
   );
 };
