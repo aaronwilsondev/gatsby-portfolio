@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile2.JPG',
   paragraphOne:  'Hello my name is Aaron Wilson, I am a Fullstack Developer specializing in the M.E.R.N stack Development.',
   paragraphTwo: 'I use React, Express, MongoDB, Node and many other technologies in order to bring my clients fast, reliable, fully fledged web applications.',
-  paragraphThree: 'I enojoy spending my time bettering myself and my skills within the realm of web development.  below are some of the projects I have worked on. Please have a browse and If I can help in anyway feel free to contact me',
+  paragraphThree: 'I enjoy spending my time bettering myself and my skills within the realm of web development.  below are some of the projects I have worked on. Please have a browse and If I can help in anyway feel free to contact me',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
