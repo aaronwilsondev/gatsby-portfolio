@@ -37,12 +37,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'bd-tattoo-portfolio.jpg',
-    title: 'Portfolio site with React',
-    info: 'A portfolio site for a Tattoo parlour based in Dublins Temple bar with contact us functionality',
-    info2: ' Using React light box wrapper for gallery image blow up and optional image download',
-    url: 'https://bdtattoo.herokuapp.com/',
-    repo: 'https://github.com/aaronwilsondev/bulldog-tattoo', // if no repo, the button will not show up
+    img: 'drowzy-app.jpg',
+    title: 'Sleep Meditation App with React',
+    info: 'A landing page for a Sleep Meditation App using React Styled Components',
+    info2: 'Utilizing react-router-dom and react-scroll for page navigation',
+    url: 'https://drowzy.herokuapp.com/',
+    repo: 'https://github.com/aaronwilsondev/drowzy-app', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
